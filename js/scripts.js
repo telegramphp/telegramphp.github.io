@@ -42,7 +42,7 @@ $(document).ready(function() {
 $(window).load(function() {
 	"use strict";
 	$("#commentslider").owlCarousel({
-		autoPlay: 4000, /** for autoplay - change false to 4000 to auto change every 4 seconds (for example) **/
+		autoPlay: 8000, /** for autoplay - change false to 4000 to auto change every 4 seconds (for example) **/
 		autoHeight: true,
 		stopOnHover: true,
 		navigation: false,
