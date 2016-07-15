@@ -1,1 +1,1 @@
-Все по ссылке [telegramphp.github.io.git](telegramphp.github.io.git)
+Все по ссылке [telegramphp.github.io](//telegramphp.github.io)
